@@ -1,3 +1,5 @@
+// Compiled using typings@0.6.2
+// Source: https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/16cfc9e52eec782859fc91b413e9866640651395/jasmine/jasmine.d.ts
 // Type definitions for Jasmine 2.2
 // Project: http://jasmine.github.io/
 // Definitions by: Boris Yankov <https://github.com/borisyankov/>, Theodore Brown <https://github.com/theodorejb>, David Pärsson <https://github.com/davidparsson/>

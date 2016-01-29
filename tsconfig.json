@@ -18,7 +18,8 @@
   "filesGlob": [
     "./src/**/*.ts",
     "./test/**/*.ts",
-    "./typings/**/*.d.ts",
+    "./typings/browser.d.ts",
+    "./typings/custom/**/*.d.ts",
     "./jspm_packages/**/*.d.ts"
   ],
   "exclude": [
