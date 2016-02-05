@@ -6,7 +6,6 @@
     "sourceMap": true,
     "target": "es5",
     "module": "amd",
-    "moduleResolution": "classic",
     "declaration": false,
     "noImplicitAny": false,
     "noResolve": true,
@@ -19,7 +18,7 @@
     "./src/**/*.ts",
     "./test/**/*.ts",
     "./typings/browser.d.ts",
-    "./typings/custom/**/*.d.ts",
+    "./custom_typings/**/*.d.ts",
     "./jspm_packages/**/*.d.ts"
   ],
   "exclude": [
