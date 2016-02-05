@@ -8,7 +8,7 @@ module.exports = {
   html: appRoot + '**/*.html',
   font: appRoot + 'assets/fonts/**/*',
   fontOutput: 'dist/assets/fonts',
-  style: [appRoot + 'assets/styles/**/*.scss', appRoot + 'assets/styles/**/*.css'],
+  style: ['assets/styles/**/*.scss', 'assets/styles/**/*.css'],
   styleOutput: outputRoot + 'assets/styles',
   image: appRoot + 'assets/images/**/*',
   imageOutput: outputRoot + 'assets/images',
