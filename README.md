@@ -7,4 +7,5 @@ Open up a Terminal/Command Prompt or PowerShell window and run these commands in
 1. npm install gulp jspm typings typescript -g
 2. npm install
 3. jspm install -y
-4. gulp build
+4. typings install
+5. gulp build
